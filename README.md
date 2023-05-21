@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-First head to the main folder
+First head to the main folder.
 On the address bar, type CMD to open Command Prompt
 
 ### STEP 1: install packages: type: `npm i / yarn`
