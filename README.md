@@ -8,7 +8,7 @@ In the project directory, you can run:
 
 ### `npm i / yarn`
 
-Runs the app in the development mode.\
+Install required package for the app in development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ### `npm start / yarn start`
