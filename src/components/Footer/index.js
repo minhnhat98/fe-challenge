@@ -26,7 +26,7 @@ const Footer = () => {
           </span>
         </div>
         <a
-          href='https://github.com'
+          href='https://github.com/minhnhat98/fe-challenge'
           target='_blank'
           className='item3'
           rel='noreferrer'
