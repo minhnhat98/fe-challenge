@@ -20,7 +20,7 @@ export const Home = () => {
         <h5 className='gallery-title'>Image Gallery</h5>
         <div className='flexbox'>
           {data.map((item, index) => (
-            <LazyImage src={item.src} key={index} />
+            <LazyImage src={item.src} key={index} alt='' />
           ))}
         </div>
         <div className='flexbox-2'>
